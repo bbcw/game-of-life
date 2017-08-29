@@ -204,7 +204,7 @@
             <version>1.9.0</version>
             <scope>test</scope>
         </dependency>
-    </dependencies>
+    <!--</dependencies>-->
 
         <dependency>
     <groupId> org.apache.cassandra</groupId>
